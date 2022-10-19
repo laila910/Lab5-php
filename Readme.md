@@ -29,4 +29,3 @@
   - after he logout, he will redirect to index and change header button 'see login and signup' as in:
     ![image](img/afterlogout.png)
   - To see Demo video as in: 
-  
